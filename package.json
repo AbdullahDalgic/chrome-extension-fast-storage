@@ -1,17 +1,18 @@
 {
-  "name": "chrome-extension-storage",
+  "name": "chrome-extension-fast-storage",
   "version": "1.0.0",
   "description": "Structure that allows you to use local storage structure for chrome extension without async await.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdullahDalgic/chrome-extension-storage.git"
+    "url": "git+https://github.com/AbdullahDalgic/chrome-extension-fast-storage.git"
   },
   "files": [
     "lib/**/*"
   ],
   "keywords": [
+    "chrome-extension-fast-storage",
     "chrome-extension-storage",
     "chrome-extension",
     "chrome",
@@ -21,13 +22,13 @@
     "local-storage",
     "chrome-extension-local-storage",
     "chrome-extension-localstorage",
-    "chrome-extension-storage",
+    "chrome-extension-fast-storage",
     "non-async",
     "non-async-await",
     "non-async-await-storage",
     "non-async-await-local-storage",
     "non-async-await-localstorage",
-    "non-async-await-chrome-extension-storage"
+    "non-async-await-chrome-extension-fast-storage"
   ],
   "author": "Abdullah Dalgıç <abdullahdalgic33@gmail.com> (http://www.abdullahdalgic.com.tr)",
   "license": "MIT",
@@ -39,9 +40,9 @@
     "@types/chrome": "^0.0.134"
   },
   "bugs": {
-    "url": "https://github.com/AbdullahDalgic/chrome-extension-storage/issues"
+    "url": "https://github.com/AbdullahDalgic/chrome-extension-fast-storage/issues"
   },
-  "homepage": "https://github.com/AbdullahDalgic/chrome-extension-storage#readme",
+  "homepage": "https://github.com/AbdullahDalgic/chrome-extension-fast-storage#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",

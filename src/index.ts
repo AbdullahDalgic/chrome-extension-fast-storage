@@ -1,5 +1,5 @@
 /*!
- * chrome-extension-storage.js - The fastest storage structure in chrome extension
+ * chrome-extension-fast-storage.js - The fastest storage structure in chrome extension
  * Copyright(c) 2023 Abdullah Dalgic
  * MIT Licensed
  */

@@ -1,4 +1,4 @@
-# chrome-extension-storage
+# chrome-extension-fast-storage
 
 > The 'chrome.local.storage' used by the chrome extension works async. with this library you can use it without async.
 > With this package, you do not need to use async when you are going to pull data from storage. Only 1 instance is always kept in the background.
@@ -6,8 +6,8 @@
 ## Install
 
 ```
-npm install chrome-extension-storage
-yarn add chrome-extension-storage
+npm install chrome-extension-fast-storage
+yarn add chrome-extension-fast-storage
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Example usage is as follows.
 ### To call the package
 
 ```
-import ChromeStorage from "chrome-extension-storage";
+import ChromeStorage from "chrome-extension-fast-storage";
 ```
 
 ### To listen to the changes on the storage
